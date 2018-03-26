@@ -35,6 +35,8 @@ Seaborn
 Pandas
 Mathplotlib
 
+** We Used Linear Regression
+
 ### Team Name : GNI_CODERS
 ### Team Leader : RAJ KIRAN EDUNURI
 ### Team Members : 1.Yeshwanth Kumar 2.Shaillesh
