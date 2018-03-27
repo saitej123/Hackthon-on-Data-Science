@@ -1,7 +1,7 @@
 # Hackthon-on-Data-Science
 Worked on " Analysing and Predicting the Bitcoin prices " 
 
-Bitcoin Prediction - A project that won the second prize in a hackathon
+Bitcoin Prediction - A project that won the prize in a hackathon
 
 This repository contains all the files used in order to create an ipython Notebook for refactored.ai. Refactored.ai is an online platform through which one can learn and build at the same time. It is completely powered by iPython Notebooks and is a result of a 5-cell compiler trick. Our task was to create a lesson on anyone of the following topics :
 
